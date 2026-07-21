@@ -36,8 +36,3 @@ class _EmbedsHanddler {
 function onEmbeds() {
   return new _EmbedsHanddler()
 }
-
-
-
-onEmbeds().title("title text")
-onEmbeds().description("description text")
